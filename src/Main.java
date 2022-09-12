@@ -15,4 +15,11 @@ public class Main {
       System.out.println(z);
       // 8984
    }
+
+   /**
+    * cbxf  sflbzdkl bjl f
+    */
+   void task1() {
+      //
+   }
 }
